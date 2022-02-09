@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/50435193/cannot-edit-rails-credentials-rails-5-2
