@@ -34,7 +34,7 @@ gem 'bootstrap', '~> 5.1.3'
 gem 'jquery-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'iex-ruby-client'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
