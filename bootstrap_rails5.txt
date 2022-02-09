@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/51105327/using-bootstrap-gem-with-rails
